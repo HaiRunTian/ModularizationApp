@@ -1,0 +1,2 @@
+include ':app', ':chat', ':find', ':mine', ':contract', ':commonlib'
+rootProject.name='ModularizationApp'
